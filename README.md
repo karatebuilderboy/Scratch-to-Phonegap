@@ -1,8 +1,3 @@
-# Roy the RPG
+# Scratch to Phonegap
 
-It's in progress, and it's gonna be great.
-
-
-[nitrodragon.github.io](http://nitrodragon.github.io/royroyroyroy)
-## Information
-This game will be making history. I'm not going to say how quite yet, but it will. 
+This is repo is for people who want to make apps using Scratch. To use, simply replace index.html with the source code of a project in fullscreen when in Phosphorus. config.xml also has some fun things to change around. :)
