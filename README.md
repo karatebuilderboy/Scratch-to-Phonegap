@@ -1,4 +1,8 @@
-# Scratch-to-Phonegap
-This is a repository to help people make apps using Scratch. The source of a Phosphorous page should be inserted into Index.html
-Phosphorous was not made by me, it is by Nathan.
-Intended for use with PhoneGap
+# Roy the RPG
+
+It's in progress, and it's gonna be great.
+
+
+[nitrodragon.github.io](http://nitrodragon.github.io/royroyroyroy)
+## Information
+This game will be making history. I'm not going to say how quite yet, but it will. 
