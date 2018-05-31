@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[penguinjumper.FF76YT.edu.mit.scratch]"
+        id          = "[krazyboats.FF76YT.edu.mit.scratch]"
         versionCode = "10" 
         version     = "1.0.0" >
 
