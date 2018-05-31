@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Penguin Jumper</name>
+    <name>Dog Jumper</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        A fun game where a dog jumps onto a boat. Made with scratch. Credit to karatebuilderboy https://scratch.mit.edu/projects/116055504/.
     </description>
 
     <author href="http://scratch.mit.edu/users/FF76YT" email="fanaticalfish76@gmail.com">
