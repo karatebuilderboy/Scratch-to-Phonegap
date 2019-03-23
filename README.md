@@ -6,4 +6,4 @@ This method uses Phoshporus, a Scratch to JS compiler, and PhoneGap, a JS to mob
 
 For reference if you follow any other PhoneGap tutorials to further customize your app, this repository contains the entirety of Phosphorus source code (which is set to run your Scratch project) and the PhoneGap config.xml. If a tutorial says to add or edit any files, feel free to do so.
 
-Good luck! :)
+Good luck!  :)
