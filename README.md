@@ -4,7 +4,7 @@
 >
 > If you're still interested in trying to package Scratch projects to mobile apps, consider exploring [TurboWarp Packager](https://packager.turbowarp.org/) as a modern Phosphorus alternative and [Apache Cordova](https://cordova.apache.org/), the underlying framework of PhoneGap.
 
-This is a PhoneGap project with Phosphorus to embed Scratch projects in mobile apps. See the tutorial here: [https://scratch.mit.edu/projects/116055504/](https://scratch.mit.edu/projects/116055504/)
+This is a PhoneGap project which uses Phosphorus to embed Scratch projects in mobile apps. See the tutorial here: [https://scratch.mit.edu/projects/116055504/](https://scratch.mit.edu/projects/116055504/)
 
 This method uses Phosphorus, a JavaScript alternative to the Scratch 2.0 Flash player, and PhoneGap, a web to mobile app packager. Following this setup, you will only need to push updates to the Scratch project, which the app loads from the web at runtime. The app will always play the current version of the project found on Scratch.
 
